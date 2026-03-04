@@ -1,0 +1,21 @@
+{
+  "name": "5dars-vazifasi",
+  "version": "1.0.0",
+  "description": "MongoDB Aggregation: Order statistikasi API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
